@@ -29,5 +29,34 @@
     font-size: 16px;
 }
 
+#img-div {
+    padding: 10px;
+    background-color: #fff;
+    margin: 0 15px;
+}
 
+#image {
+    max-width: 100%;
+    display: block;
+    margin: 5px auto;
+}
 
+#img-caption {
+    margin: 16px 0 7px 0;
+    color: #333;
+}
+
+#tribute-info {
+    max-width: 550px;
+    margin: auto;
+    
+}
+
+#tribute-heading {
+    margin: 45px 0;
+    text-align: center;
+}
+
+ul {
+    text-align: left;
+}
