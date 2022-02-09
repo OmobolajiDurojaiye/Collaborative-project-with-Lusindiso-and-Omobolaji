@@ -6,7 +6,7 @@
 
 #main {
     height: max-content;
-    margin: 3% 1% ;
+    margin: 30px 10px;
     background-color: #eee;
     text-align: center;
     border-radius: 5px;
@@ -65,7 +65,7 @@ ul {
 }
 
 li {
-    margin: 15px auto;
+    margin: 15px 30px;
     font-size: 16px;
     line-height: 1.5;
 }
@@ -87,4 +87,6 @@ h3 {
     font-weight: bold;
     padding-bottom: 30px;
 }
+
+
 
